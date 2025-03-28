@@ -1,4 +1,9 @@
 ## Hi there 👋
+💻Estudando para ingressar na Progamação
+✅Conhecimento em JavaScript
+ Aqui quero compartilhar os projetos desenvolvidos.
+
+
 
 <!--
 **oideza/Oideza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
