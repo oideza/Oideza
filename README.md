@@ -1,6 +1,8 @@
 ## Hi there 👋
 💻Estudando para ingressar na Progamação
+
 ✅Conhecimento em JavaScript
+
  Aqui quero compartilhar os projetos desenvolvidos.
 
 
