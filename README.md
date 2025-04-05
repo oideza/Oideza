@@ -1,7 +1,7 @@
 ## Hi there 👋
-💻Estudando para ingressar na Progamação
+💻Estudando desenvolvimento Front end
 
-✅Conhecimento em JavaScript
+✅Conhecimento em JavaScript, CSS, HTML
 
  Aqui quero compartilhar os projetos desenvolvidos.
 
