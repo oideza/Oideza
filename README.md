@@ -4,10 +4,11 @@ Olá 👋
 Olá, sou a Andressa!
 Estou em transição de carreira para a área de desenvolvimento Front-end,
 com foco em aprimorar minhas habilidades e construir soluções modernas e eficientes.
-Atualmente, estou desenvolvendo projetos utilizando as seguintes tecnologias: HTML e CSS
+Atualmente, estou desenvolvendo projetos utilizando as seguintes tecnologias: 
 
+▶️ (**)HTML e CSS
 
-linkedin:https://www.linkedin.com/in/andressa-sousa2024/?trk=opento_sprofile_topcard
+▶️ linkedin:https://www.linkedin.com/in/andressa-sousa2024/?trk=opento_sprofile_topcard
 
 
 
