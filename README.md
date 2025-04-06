@@ -7,6 +7,7 @@ com foco em aprimorar minhas habilidades e construir soluções modernas e efici
 Atualmente, estou desenvolvendo projetos utilizando as seguintes tecnologias: HTML e CSS
 
 
+ ![image](https://github.com/user-attachments/assets/7f62a023-6cd7-4543-b8d5-b9385455a3df)
 linkedin:https://www.linkedin.com/in/andressa-sousa2024/?trk=opento_sprofile_topcard
 
 
