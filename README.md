@@ -1,9 +1,13 @@
 ## Hi there 👋
-💻Estudando desenvolvimento Front end
+Olá 👋
 
-✅Conhecimento em JavaScript, CSS, HTML
+Olá, sou a Andressa!
+Estou em transição de carreira para a área de desenvolvimento Front-end,
+com foco em aprimorar minhas habilidades e construir soluções modernas e eficientes.
+Atualmente, estou desenvolvendo projetos utilizando as seguintes tecnologias: HTML e CSS
 
- Aqui quero compartilhar os projetos desenvolvidos.
+
+
 
 
 
